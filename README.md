@@ -1,2 +1,3 @@
-# Final-Project
-This is our final project for HCI and System Integration.
+# Final-Library System - Capstone
+
+This is our final library system capstone.
